@@ -1,17 +1,17 @@
 /*
-Theme Name:
-Author: yaminncco
+Theme:      Corporate Website
+Author:     Quadrito
 
 Colors:
-	Body 		  : #868F9B
-	Headers 	: #10161A
-	Primary 	: #6195FF
-	Dark      : #FCFCFF
-	Grey 		  : #F4F4F4 #FAFAFA #EEE
+	Body:       #868F9B
+	Headers:    #10161A
+	Primary:    #6195FF
+	Dark:       #FCFCFF
+	Grey:       #F4F4F4 #FAFAFA #EEE
 
 Fonts: Montserrat Varela Round
 
-Table OF Contents
+Table of Contents
 ------------------------------------
 1 > General
 2 > Logo
@@ -34,13 +34,7 @@ Table OF Contents
 19 > Owl theme
 20 > Back to top
 21 > Preloader
-
 ------------------------------------*/
-
-/*------------------------------------*\
-	General
-\*------------------------------------*/
-
 
 /* -- typography -- */
 
@@ -504,7 +498,6 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
 }
 
-
 /* -- nav btn collapse -- */
 
 .nav-collapse {
@@ -569,7 +562,6 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     transform: translateY(-4px) rotate(135deg);
 }
 
-
 /*------------------------------------*\
 	Header
 \*------------------------------------*/
@@ -618,7 +610,6 @@ header {
 .breadcrumb>li+li:before {
     color: #868F9B;
 }
-
 
 /*------------------------------------*\
 	About
@@ -779,7 +770,6 @@ header {
     opacity: 1;
 }
 
-
 /*------------------------------------*\
 	Services
 \*------------------------------------*/
@@ -861,7 +851,6 @@ header {
     font-size: 36px;
     margin-bottom: 10px;
 }
-
 
 /*------------------------------------*\
 	Pricing
@@ -992,7 +981,6 @@ header {
     text-transform: uppercase;
 }
 
-
 /*------------------------------------*\
 	Team
 \*------------------------------------*/
@@ -1096,7 +1084,6 @@ header {
     opacity: 1;
 }
 
-
 /*------------------------------------*\
 	Blog
 \*------------------------------------*/
@@ -1171,7 +1158,6 @@ header {
 .blog-tags a:hover i {
   color: #FFF;
 }
-
 
 /* -- blog author -- */
 
@@ -1296,7 +1282,6 @@ header {
     margin-left: 15px;
 }
 
-
 /*------------------------------------*\
 	Blog sidebar
 \*------------------------------------*/
@@ -1409,8 +1394,6 @@ header {
     margin-right: 5px;
 }
 
-
-
 /*------------------------------------*\
 	Contact
 \*------------------------------------*/
@@ -1434,7 +1417,6 @@ header {
 .contact-form .input {
     margin-bottom: 20px;
 }
-
 
 .contact-form .input:nth-child(1), .contact-form .input:nth-child(2) {
     width: calc(50% - 10px);
@@ -1490,11 +1472,9 @@ header {
     margin: 0;
 }
 
-
 /*------------------------------------*\
 	Responsive
 \*------------------------------------*/
-
 
 @media only screen and (max-width: 991px) {}
 
@@ -1547,8 +1527,6 @@ header {
       margin-left: 0px;
   }
 
-
-
   .blog-author .media .media-left {
       display: block;
       padding-right: 0;
@@ -1569,8 +1547,6 @@ header {
       margin:0px -15px;
   }
 }
-
-
 
 /*------------------------------------*\
 	Owl theme
@@ -1634,7 +1610,6 @@ header {
     background: #6195FF;
 }
 
-
 /*------------------------------------*\
 	Back to top
 \*------------------------------------*/
@@ -1669,7 +1644,6 @@ header {
 /*------------------------------------*\
 	Preloader
 \*------------------------------------*/
-
 
 #preloader {
     position: fixed;
