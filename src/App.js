@@ -55,7 +55,7 @@ class App extends React.Component {
                   <a href="#blog">Blog</a>
                   <ul className="dropdown">
                     <li>
-                      <a href="blog-single.html">blog post</a>
+                      <a href="blog-single.html">Blog Post</a>
                     </li>
                   </ul>
                 </li>
@@ -75,7 +75,7 @@ class App extends React.Component {
                     </h1>
                     <p className="white-text">Please Browse...</p>
                     <button className="white-btn">Get Started</button>
-                    <button className="main-btn">Learn more</button>
+                    <button className="main-btn">Learn More</button>
                   </div>
                 </div>
               </div>
@@ -97,7 +97,7 @@ class App extends React.Component {
                     Maecenas tempus tellus eget condimentum rhoncus sem quam
                     semper libero sit amet.
                   </p>
-                  <a href="#">Read more</a>
+                  <a href="#">Read More</a>
                 </div>
               </div>
 
@@ -109,7 +109,7 @@ class App extends React.Component {
                     Maecenas tempus tellus eget condimentum rhoncus sem quam
                     semper libero sit amet.
                   </p>
-                  <a href="#">Read more</a>
+                  <a href="#">Read More</a>
                 </div>
               </div>
 
@@ -121,7 +121,7 @@ class App extends React.Component {
                     Maecenas tempus tellus eget condimentum rhoncus sem quam
                     semper libero sit amet.
                   </p>
-                  <a href="#">Read more</a>
+                  <a href="#">Read More</a>
                 </div>
               </div>
             </div>
@@ -243,7 +243,7 @@ class App extends React.Component {
           <div className="container">
             <div className="row">
               <div className="section-header text-center">
-                <h2 className="title">What we offer</h2>
+                <h2 className="title">What We Offer</h2>
               </div>
 
               <div className="col-md-4 col-sm-6">
@@ -392,7 +392,7 @@ class App extends React.Component {
                   <h3 className="white-text">
                     <span className="counter">451</span>
                   </h3>
-                  <span className="white-text">Happy clients</span>
+                  <span className="white-text">Happy Clients</span>
                 </div>
               </div>
 
@@ -402,7 +402,7 @@ class App extends React.Component {
                   <h3 className="white-text">
                     <span className="counter">12</span>
                   </h3>
-                  <span className="white-text">Awards won</span>
+                  <span className="white-text">Awards Won</span>
                 </div>
               </div>
 
@@ -421,7 +421,7 @@ class App extends React.Component {
                   <h3 className="white-text">
                     <span className="counter">45</span>
                   </h3>
-                  <span className="white-text">Projects completed</span>
+                  <span className="white-text">Projects Completed</span>
                 </div>
               </div>
             </div>
@@ -438,7 +438,7 @@ class App extends React.Component {
               <div className="col-sm-4">
                 <div className="pricing">
                   <div className="price-head">
-                    <span className="price-title">Basic plan</span>
+                    <span className="price-title">Basic Plan</span>
                     <div className="price">
                       <h3>
                         $9<span className="duration">/ month</span>
@@ -447,24 +447,24 @@ class App extends React.Component {
                   </div>
                   <ul className="price-content">
                     <li>
-                      <p>1GB Disk Space</p>
+                      <p>Web Site Maintenance</p>
                     </li>
                     <li>
-                      <p>100 Email Account</p>
+                      <p>Full Stack Apps</p>
                     </li>
                     <li>
-                      <p>24/24 Support</p>
+                      <p>24/7 Support</p>
                     </li>
                   </ul>
                   <div className="price-btn">
-                    <button className="outline-btn">Purchase now</button>
+                    <button className="outline-btn">Purchase Now</button>
                   </div>
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="pricing">
                   <div className="price-head">
-                    <span className="price-title">Silver plan</span>
+                    <span className="price-title">Silver Plan</span>
                     <div className="price">
                       <h3>
                         $19<span className="duration">/ month</span>
@@ -473,24 +473,24 @@ class App extends React.Component {
                   </div>
                   <ul className="price-content">
                     <li>
-                      <p>1GB Disk Space</p>
+                      <p>Web Site Maintenance</p>
                     </li>
                     <li>
-                      <p>100 Email Account</p>
+                      <p>Full Stack Apps</p>
                     </li>
                     <li>
-                      <p>24/24 Support</p>
+                      <p>24/7 Support</p>
                     </li>
                   </ul>
                   <div className="price-btn">
-                    <button className="outline-btn">Purchase now</button>
+                    <button className="outline-btn">Purchase Now</button>
                   </div>
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="pricing">
                   <div className="price-head">
-                    <span className="price-title">Gold plan</span>
+                    <span className="price-title">Gold Plan</span>
                     <div className="price">
                       <h3>
                         $39<span className="duration">/ month</span>
@@ -499,17 +499,17 @@ class App extends React.Component {
                   </div>
                   <ul className="price-content">
                     <li>
-                      <p>1GB Disk Space</p>
+                      <p>Web Site Maintenance</p>
                     </li>
                     <li>
-                      <p>100 Email Account</p>
+                      <p>Full Stack Apps</p>
                     </li>
                     <li>
-                      <p>24/24 Support</p>
+                      <p>24/7 Support</p>
                     </li>
                   </ul>
                   <div className="price-btn">
-                    <button className="outline-btn">Purchase now</button>
+                    <button className="outline-btn">Purchase Now</button>
                   </div>
                 </div>
               </div>
@@ -661,7 +661,7 @@ class App extends React.Component {
           <div className="container">
             <div className="row">
               <div className="section-header text-center">
-                <h2 className="title">Recents news</h2>
+                <h2 className="title">Recents News</h2>
               </div>
 
               <div className="col-md-4">
@@ -676,7 +676,7 @@ class App extends React.Component {
                   <div className="blog-content">
                     <ul className="blog-meta">
                       <li>
-                        <i className="fa fa-user"></i>John doe
+                        <i className="fa fa-user"></i>John Doe
                       </li>
                       <li>
                         <i className="fa fa-clock-o"></i>18 Oct
@@ -691,7 +691,7 @@ class App extends React.Component {
                       Nisl purus in mollis nunc sed. Nunc non blandit massa enim
                       nec.
                     </p>
-                    <a href="blog-single.html">Read more</a>
+                    <a href="blog-single.html">Read More</a>
                   </div>
                 </div>
               </div>
@@ -708,7 +708,7 @@ class App extends React.Component {
                   <div className="blog-content">
                     <ul className="blog-meta">
                       <li>
-                        <i className="fa fa-user"></i>John doe
+                        <i className="fa fa-user"></i>John Doe
                       </li>
                       <li>
                         <i className="fa fa-clock-o"></i>18 Oct
@@ -723,7 +723,7 @@ class App extends React.Component {
                       Nisl purus in mollis nunc sed. Nunc non blandit massa enim
                       nec.
                     </p>
-                    <a href="blog-single.html">Read more</a>
+                    <a href="blog-single.html">Read More</a>
                   </div>
                 </div>
               </div>
@@ -740,7 +740,7 @@ class App extends React.Component {
                   <div className="blog-content">
                     <ul className="blog-meta">
                       <li>
-                        <i className="fa fa-user"></i>John doe
+                        <i className="fa fa-user"></i>John Doe
                       </li>
                       <li>
                         <i className="fa fa-clock-o"></i>18 Oct
@@ -755,7 +755,7 @@ class App extends React.Component {
                       Nisl purus in mollis nunc sed. Nunc non blandit massa enim
                       nec.
                     </p>
-                    <a href="blog-single.html">Read more</a>
+                    <a href="blog-single.html">Read More</a>
                   </div>
                 </div>
               </div>
@@ -781,7 +781,7 @@ class App extends React.Component {
                 <div className="contact">
                   <i className="fa fa-envelope"></i>
                   <h3>Email</h3>
-                  <p>email@support.com</p>
+                  <p>info@tcel.com</p>
                 </div>
               </div>
 
@@ -789,7 +789,7 @@ class App extends React.Component {
                 <div className="contact">
                   <i className="fa fa-map-marker"></i>
                   <h3>Address</h3>
-                  <p>123 Any Street</p>
+                  <p>123 Any Street City, State Country</p>
                 </div>
               </div>
 
@@ -799,7 +799,7 @@ class App extends React.Component {
                   <input type="email" className="input" placeholder="Email" />
                   <input type="text" className="input" placeholder="Subject" />
                   <textarea className="input" placeholder="Message"></textarea>
-                  <button className="main-btn">Send message</button>
+                  <button className="main-btn">Send Message</button>
                 </form>
               </div>
             </div>
